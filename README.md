@@ -12,8 +12,6 @@
 
 I am the PhD student in University of Cambridge right now.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifelix1209)
-
 ## Reserch insterests:
 
 - CNCC developmental process (during my undergraduate study)
